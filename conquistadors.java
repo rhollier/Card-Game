@@ -22,7 +22,6 @@ Card[] playerOne = new Card[]
 
 //for loop rounds = # players + 1
 
-/*
     public class Card {
 
         private int cardNum;
