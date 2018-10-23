@@ -1,6 +1,7 @@
-//
-//He's a wizard, Harry!
 //Created on PC
+
+import java.util.*;
+import java.util.Scanner;
 
 public class conquistadors{
   
