@@ -9,8 +9,7 @@ public class conquistadors{
     System.out.println("How many players to you want to simulate?");
     int numberofusers = keyboard.nextInt();
       
-      
-       
+          
   }
 
 public static Cards(){
